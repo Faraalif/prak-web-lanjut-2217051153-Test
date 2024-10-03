@@ -91,7 +91,11 @@
         }
     </style>
 </head>
-<body>
+
+<!-- <body>
+@extends('layouts.app')
+
+@section('content')
     <div class="form-container">
         <h2>FORM</h2>
 
@@ -114,5 +118,6 @@
         </form>
         
     </div>
-</body>
-</html>
+@endsection
+<!-- </body>
+</html> -->
